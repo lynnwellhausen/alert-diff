@@ -8,6 +8,21 @@
     sticky={null}
     type="main"
   >
-    <Alert id="alert1" />
+    <Alert2
+      id="alert1"
+      _labels={[]}
+      _tooltipByIndex={[]}
+      _values={[]}
+      actionIcon=""
+      actionIconPosition="right"
+      actionPadding={false}
+      actionPosition="bottom"
+      actionText=""
+      description=""
+      icon=""
+      iconPosition="center"
+      title=""
+      type="info"
+    />
   </Frame>
 </App>
