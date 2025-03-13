@@ -1,0 +1,57 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "a5a0acce-c9d4-11ee-90aa-b3599ec78c4a",
+  "appTemplate": {
+    "appMaxWidth": "1560px",
+    "appThemeId": "custom",
+    "experimentalFeatures": {
+      "object": {
+        "sourceControlTemplateDehydration": false
+      }
+    },
+    "preloadedAppJavaScript": "document.title = \"testing\";",
+    "pageCodeFolders": {
+      "object": {
+        "selectedRowValue": {
+          "array": []
+        },
+        "table2": {
+          "array": []
+        },
+        "getSame": {
+          "array": []
+        },
+        "table1": {
+          "array": []
+        },
+        "downloadPage": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "serializedLayout": null,
+    "appTesting": {
+      "object": {
+        "tests": {
+          "object": {}
+        },
+        "testSuites": {
+          "array": []
+        }
+      }
+    },
+    "preloadedAppJSLinks": {
+      "array": ["https://accounts.google.com/gsi/client"]
+    },
+    "version": "3.169.0",
+    "experimentalDataTabEnabled": true
+  }
+}

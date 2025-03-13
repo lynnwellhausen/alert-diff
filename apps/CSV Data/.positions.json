@@ -1,0 +1,166 @@
+{
+  "alert1": {
+    "row": 1.2,
+    "col": 7,
+    "height": 1,
+    "width": 4
+  },
+  "button1": {
+    "row": 7,
+    "col": 9,
+    "height": 1,
+    "width": 2
+  },
+  "button2": {
+    "row": 46,
+    "col": 6,
+    "height": 1,
+    "width": 2
+  },
+  "chat1": {
+    "row": 9.6,
+    "col": 8,
+    "height": 9.6,
+    "width": 4
+  },
+  "checkbox1": {
+    "row": 41.4,
+    "col": 6,
+    "height": 0.6
+  },
+  "checkboxGroup1": {
+    "container": "form1",
+    "height": 2.4,
+    "width": 10
+  },
+  "container1": {
+    "container": "listView1",
+    "height": 1,
+    "width": 12
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "date1": {
+    "row": 8,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "fileButton1": {
+    "row": 47.4,
+    "col": 1,
+    "height": 1,
+    "width": 2
+  },
+  "fileInput1": {
+    "row": 8.2,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "fileInput2": {
+    "row": 48.4,
+    "col": 1,
+    "height": 0.2,
+    "width": 4
+  },
+  "filter1": {
+    "row": 0.6,
+    "height": 1.4,
+    "width": 6
+  },
+  "form1": {
+    "row": 41.2,
+    "col": 1,
+    "height": 0.2,
+    "width": 4
+  },
+  "formButton1": {
+    "container": "form1",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "formTitle1": {
+    "container": "form1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "html2": {
+    "row": 53.4,
+    "col": 8,
+    "height": 0.2
+  },
+  "link1": {
+    "row": 8.4,
+    "col": 9,
+    "height": 0.6,
+    "width": 2
+  },
+  "link2": {
+    "row": 9,
+    "col": 9,
+    "height": 0.6,
+    "width": 2
+  },
+  "listView1": {
+    "row": 33.2,
+    "height": 8,
+    "width": 8
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame2",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame2",
+    "height": 0.6,
+    "width": 9
+  },
+  "navigation": {
+    "subcontainer": "header",
+    "height": 1,
+    "width": 12
+  },
+  "numberInput1": {
+    "row": 2.2,
+    "col": 8,
+    "height": 0.2,
+    "width": 4
+  },
+  "table1": {
+    "row": 6,
+    "height": 1,
+    "width": 11
+  },
+  "text1": {
+    "subcontainer": "modalFrame1",
+    "row": 0.6,
+    "col": 4,
+    "height": 0.6
+  },
+  "title": {
+    "height": 0.2
+  }
+}
